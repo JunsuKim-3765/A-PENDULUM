@@ -1,2 +1,1 @@
-# A-PENDULUM
-Pendulum is present.
+# C22-Student-boiler-plate
